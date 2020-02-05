@@ -5,6 +5,6 @@
 
 # ignored folders
 
-/idea
+/.idea
 /IlluminatedCloud
 /*.vscode
