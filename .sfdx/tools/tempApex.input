@@ -1,0 +1,25 @@
+public class EmailClass {
+
+    @AuraEnabled
+    public static boolean sendSingleEmail(String subject, String body) {        
+        Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage();
+        List<String> addresses = getCustomSettings();            
+        email.setToAddresses(addresses);
+        email.setSubject(subject);
+        email.setPlainTextBody(body);
+        Messaging.SendEmailResult[] result = Messaging.sendEmail(new Messaging.SingleEmailMessage[] {email});
+        return Boolean.valueOf(result[0]);
+    }
+
+    @testVisible
+    private static List<String> getCustomSettings() {
+        List<String> addresses = new List<String>();
+        for(EmailServicesAddresses__c cs : EmailServicesAddresses__c.getAll().values()) {            
+            if(cs.Email__c != null) {
+                addresses.add(cs.Email__c);
+            }
+        }
+        return addresses;
+    }
+
+}

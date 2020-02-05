@@ -1,0 +1,28 @@
+<template>
+<lightning-card title="Email Form" icon-name="custom:custom14">
+
+    <div class="slds-m-around_medium">    
+        <template if:true={sendToAddresses}>
+        <lightning-textarea label={labelsForHTML.sendToLabel} value={sendToAddresses} disabled></lightning-textarea>                                                        
+        <lightning-input label={labelsForHTML.subjectLabel} data-id="subject"></lightning-input>
+        <br/>           
+        <lightning-input-rich-text 
+        onchange={validation}
+        valid={validity} 
+        message-when-bad-input={errorMess}                
+        ></lightning-input-rich-text>                
+        <br/>
+        <lightning-button
+            onclick={handleClick}
+            class="slds-m-top_small"
+            type="submit"
+            label={labelsForHTML.sendLabel}>
+        </lightning-button>
+    </template>
+    <template if:false={sendToAddresses}>
+        <p key={emailMissed}> {emailMissed} </p>
+    </template>
+    </div>
+
+</lightning-card>      
+</template>

@@ -1,0 +1,419 @@
+[
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579176940336,
+            "changeTime": 1579176940336,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579176940336,
+            "changeTime": 1579176940336,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579602817920,
+            "changeTime": 1579602817920,
+            "contentHash": "46594d1a5347060fcc355753b18d26c155303a11",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579176940336,
+            "changeTime": 1579176940336,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579184719534,
+            "changeTime": 1579184719534,
+            "contentHash": "559710b59d540d823a7552d6361e79a6e4ac973c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579431153218,
+            "changeTime": 1579184719562,
+            "contentHash": "59bedf5eb226cf3d9e1c616b4b41d6e3854b1d4a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.html",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.html",
+            "isDirectory": false,
+            "size": 1044,
+            "modifiedTime": 1579597205370,
+            "changeTime": 1579597205370,
+            "contentHash": "1bdd1d7535bba295d638ee660d5a749c501a0e5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3227,
+            "modifiedTime": 1579603498586,
+            "changeTime": 1579603498586,
+            "isWorkspace": false,
+            "contentHash": "c0a6479780f1e223ab30d27920c8a88c4f75497d"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.js-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\lwc\\emailForm\\emailForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1579261630872,
+            "changeTime": 1579261630872,
+            "contentHash": "a4e9b8e0e2ba3f1546b01604b6a08f4c649e262d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579603508568,
+            "changeTime": 1579176992791,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\EmailServicesAddresses__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\EmailServicesAddresses__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 283,
+            "modifiedTime": 1579261761083,
+            "changeTime": 1579261761083,
+            "contentHash": "9559002d6414b2433a54f9beb22a4d074cff93d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1579602817964,
+            "changeTime": 1579602817964,
+            "contentHash": "6e7730e99c4ca3285105cc9d052e1684306b52bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1723,
+            "modifiedTime": 1579261761122,
+            "changeTime": 1579261761122,
+            "contentHash": "0e83f16230c3669343e7739d076408cd623038a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClass.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1579261761127,
+            "changeTime": 1579261761127,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClass.cls",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClass.cls",
+            "isDirectory": false,
+            "size": 1322,
+            "modifiedTime": 1579598419626,
+            "changeTime": 1579598419626,
+            "contentHash": "b44b3cea83664f33f9a779b6d427d48b643bd2aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19667,
+            "modifiedTime": 1579602818009,
+            "changeTime": 1579602818009,
+            "contentHash": "a9d0419a7351171c40f0e5539bc88430b646cef8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4558,
+            "modifiedTime": 1579261761415,
+            "changeTime": 1579261761415,
+            "contentHash": "ea9f7fbd8a3a5d57fbb0f9dd94f9b8db6056b62e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4896,
+            "modifiedTime": 1579261761435,
+            "changeTime": 1579261761435,
+            "contentHash": "bcf6b03856759dda5008de41e614d47c3fb74693",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4558,
+            "modifiedTime": 1579261761444,
+            "changeTime": 1579261761444,
+            "contentHash": "ea9f7fbd8a3a5d57fbb0f9dd94f9b8db6056b62e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579261761088,
+            "changeTime": 1579261761088,
+            "contentHash": "be1dfbdaf43c17c6cf92e50da0919432a81baf47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579261761082,
+            "changeTime": 1579261761082,
+            "contentHash": "88735952952094338364dc2cdb6d3e276f0d51b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\fields",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\objects\\EmailServicesAddresses__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579261761088,
+            "changeTime": 1579261761088,
+            "contentHash": "91a954a2d8e01634d54d65638d4dccd14c4d37b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579261761122,
+            "changeTime": 1579261761122,
+            "contentHash": "8db0c01f640acc7ba1b555b8d1a44b12fe1de7dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579590841235,
+            "changeTime": 1579590841235,
+            "contentHash": "197777c898673ec2e5596df2c484f5b5f8edf186",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579261761444,
+            "changeTime": 1579261761444,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClassTest.cls",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClassTest.cls",
+            "isDirectory": false,
+            "size": 1772,
+            "modifiedTime": 1579598680730,
+            "changeTime": 1579598680730,
+            "contentHash": "4e76f2b2ba6863a2e1bb0480627c585902cb4a39",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClassTest.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\classes\\EmailClassTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 177,
+            "modifiedTime": 1579590855375,
+            "changeTime": 1579590855375,
+            "contentHash": "8f614d61dc23733bfb4b2c10b99117c7ebadcc73",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "size": 2379,
+            "modifiedTime": 1579602817920,
+            "changeTime": 1579602817920,
+            "contentHash": "863038395494981d94293387c86e896a5fdae754",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\labels",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP1\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579602817920,
+            "changeTime": 1579602817920,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
